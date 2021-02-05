@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+k3s :heavy_check_mark: 
+home automation  :x:
+
+
+  :thought_balloon:  :thought_balloon:  :cloud:
+ 
+ 
+ 
 <!--
 **lu4t/lu4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
