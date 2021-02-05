@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hola 👋
 
-k3s :heavy_check_mark: 
-home automation  :x:
+- k3s :heavy_check_mark: 
+- home automation  :x:
 
 
   :thought_balloon:  :thought_balloon:  :cloud:
