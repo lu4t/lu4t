@@ -1,6 +1,6 @@
 ### Hola 👋
 
-- k3s :heavy_check_mark: 
+- k8s :heavy_check_mark: 
 - home automation  :x:
 
 
