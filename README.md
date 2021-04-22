@@ -5,6 +5,7 @@
 - home automation  :x:
 - TFjs :heavy_check_mark: 
 - hacking cheap devices :heavy_check_mark: 
+- privacy :heavy_check_mark: 
 
   :thought_balloon:  :thought_balloon:  :cloud:
  
