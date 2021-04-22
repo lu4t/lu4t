@@ -1,8 +1,10 @@
 ### Hola 👋
 
 - k8s :heavy_check_mark: 
+- video streaming :heavy_check_mark: 
 - home automation  :x:
-
+- TFjs :heavy_check_mark: 
+- hacking cheap devices :heavy_check_mark: 
 
   :thought_balloon:  :thought_balloon:  :cloud:
  
